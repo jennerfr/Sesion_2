@@ -20,4 +20,8 @@ Se estudian conceptos básicos de estadística para contextualizar al alumno y s
 - [Ejemplo 6.](https://github.com/jennerfr/Sesion_2/tree/main/Ejemplo_06) Lectura de JSON y XML
 - [Ejemplo 7.](https://github.com/jennerfr/Sesion_2/tree/main/Ejemplo_07) Funciones na.omit y complete.cases
 
-# Retos de la sesión 2
+#### Retos de la sesión 2
+
+- [Reto 1.](https://github.com/jennerfr/Sesion_2/tree/main/Reto_01) 
+- [Reto 2.](https://github.com/jennerfr/Sesion_2/tree/main/Reto_02) 
+- [Reto 3.](https://github.com/jennerfr/Sesion_2/tree/main/Reto_03) 
