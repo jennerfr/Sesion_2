@@ -1,5 +1,15 @@
 # Ejemplo 3. Paquete `dplyr` y aplicaciones
 
+## Objetivo
+
+- Utilizar funciones del paquete `dplyr` para seleccionar columnas, filtrar filas y en general manipular o transformar datos en un data frame y llevarlos a una forma deseada
+
+## Requisitos
+
+- Conocer y saber usar funciones como `str` y `head` para obtener un mejor conocimiento de los datos contenidos en un data frame de una manera fácil y rápida
+
+## Desarrollo
+
 El paquete `dplyr` cuenta con varias funciones muy útiles para manipular y transformar data frames. Una vez instalado el paquete `dplyr`, puede cargarlo en `R` de la siguiente manera (sin mensajes ni advertencias)
 
 ```R
