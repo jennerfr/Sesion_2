@@ -1,5 +1,15 @@
 # Ejemplo 4. Funciones `cbind`, `rbind` (manipulación de data frames)
 
+## Objetivo
+
+- Combinar data frames (o arreglos) por columnas o por filas para formar un único data frame (o arreglo)
+
+## Requisitos
+
+- Conocer lo básico sobre vectores, matrices y data frames en `R` y saber obtener una buena idea de los datos que conforman estos arreglos de una manera fácil y rápida mediante funciones como `str` y `head`
+
+## Desarrollo
+
 #### Función `cbind`
 
 La función `cbind` toma una sucesión de argumentos que pueden ser vectores, matrices o data frames y los combina por columnas, por ejemplo 
