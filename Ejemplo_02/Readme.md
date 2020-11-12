@@ -1,5 +1,16 @@
 # Ejemplo 2. Características de los objetos (`str`, `summary`, `head` y `View`)
 
+### Objetivo
+
+- Conocer mejor conjuntos de datos guardados como data frames en `R` de una forma rápida, mediante algunas funciones útiles y de uso común.
+
+### Requisitos
+
+- Haber instalado previamente R y RStudio 
+- Saber interpretar las medidas de tendencia central y de posición
+
+### Desarrollo
+
 #### Función `str`
 
 `str` es una función que muestra de manera compacta la estructura interna de un objeto de R. Por ejemplo, si usamos como argumento de `str` el conjunto de datos `iris` que podemos encontrar en R
