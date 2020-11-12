@@ -1,5 +1,17 @@
 # Ejemplo 7. Funciones `na.omit` y `complete.cases`
 
+#### Objetivo
+
+- Tener una herramienta para identificar filas con valores perdidos (NA)
+- Filtrar filas sin valores perdidos cuando estas se hallan identificados
+
+#### Requisitos
+
+- Tener conocimientos básicos para manipular data frames
+- Saber filtrar filas de data frames
+
+#### Desarrollo
+
 Ahora vamos a considerar el conjunto de datos `airquality`, observamos primero algunas de sus filas
 
 ```R
