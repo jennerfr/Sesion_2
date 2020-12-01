@@ -1,14 +1,15 @@
-# Reto 3.
+# Reto 3. Descarga, importación y manipulación de datos en `R`
 
-#### Objetivo
+# Objetivo
 
 - Importar múltiples archivos csv a `R` y combinar el contenido de estos archivos como un único data frame
 
-#### Requisitos
+# Requisitos
 
-- Haber estudiado el Prework y trabajado con el Work
+- Tener instalado R y RStudio
+- Haber trabajado con el Prework y el Work
 
-#### Desarrollo
+# Desarrollo
 
 1. Descargue los archivos csv que corresponden a las temporadas 2017/2018, 2018/2019, 2019/2020 y 2020/2021 de la Bundesliga 1 y que se encuentran en el siguiente enlace https://www.football-data.co.uk/germanym.php
 2. Importe los archivos descargados a `R`
