@@ -1,15 +1,15 @@
 # Reto 1. Medidas de tendencia central, de posición y de dispersión
 
-#### Objetivo
+# Objetivo
 
 - Recordar las funciones de `R` para calcular medidas de tendencia central, de posición y de dispersión y lograr una mayor confianza con el lenguaje de programación con enfoque en estadística
 
-#### Requisitos
+# Requisitos
 
 - Tener instalado R y RStudio
 - Haber trabajado con el Prework y el Work
 
-#### Desarrollo
+# Desarrollo
 
 Considere el siguiente vector
 
