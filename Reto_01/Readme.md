@@ -1,4 +1,4 @@
-# Reto 1.
+# Reto 1. Medidas de tendencia central, de posición y de dispersión
 
 #### Objetivo
 
@@ -6,7 +6,8 @@
 
 #### Requisitos
 
-- Haber estudiado el Prework y trabajado con el Work
+- Tener instalado R y RStudio
+- Haber trabajado con el Prework y el Work
 
 #### Desarrollo
 
